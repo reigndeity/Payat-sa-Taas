@@ -19,8 +19,8 @@ Created by Team DD of Jose Rizal University BSEMC-GAD 101GA A.Y. 2223
 <img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/Payatas/in%20game%20ending.png?raw=true">
 
 # Download Link
-- Windows: [**Windows_Payat sa Taas**](https://drive.google.com/file/d/18aXL1cFvx1mU46ZjurF8tgxmoeGCjJgr/view?usp=sharing)
-- Android: [**Android_Payat sa Taas**](https://drive.google.com/file/d/18SFHxdNrn0GHkPHcYqDSUe8Bty8nBkH8/view?usp=sharing)
+- Windows: [**Windows - Payat sa Taas**](https://drive.google.com/file/d/18aXL1cFvx1mU46ZjurF8tgxmoeGCjJgr/view?usp=sharing)
+- Android: [**Android - Payat sa Taas**](https://drive.google.com/file/d/18SFHxdNrn0GHkPHcYqDSUe8Bty8nBkH8/view?usp=sharing)
 
 
 # Software Used
