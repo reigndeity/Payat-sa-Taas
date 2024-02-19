@@ -1,4 +1,4 @@
-# Payat-sa-Taas
+# Payat sa Taas
 <p>College Level: 1st Year
 <br>Semester: 2nd Semester
 <br>Project Type: Finals
