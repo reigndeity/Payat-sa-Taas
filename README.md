@@ -11,12 +11,16 @@ Payat sa Taas is a story told from the perspective of 16-year-old Spat who lives
 
 Created by Team DD of Jose Rizal University BSEMC-GAD 101GA A.Y. 2223
 
-<img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/Payatas/in%20game%20menu.png?raw=true">
+![image](https://github.com/reigndeity/Payat-sa-Taas/assets/158044567/6cce50e5-15e2-45f9-afc8-74d6f012fd8d)
+
 
 # Game Screenshots
-<img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/Payatas/in%20game.png?raw=true">
-<img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/Payatas/in%20game%20ui.png">
-<img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/Payatas/in%20game%20ending.png?raw=true">
+![image](https://github.com/reigndeity/Payat-sa-Taas/assets/158044567/f308a075-0ab5-4c60-9b79-00b9b4f6bb3d)
+![image](https://github.com/reigndeity/Payat-sa-Taas/assets/158044567/87687e49-27f1-43cb-86e2-b771d7141425)
+![image](https://github.com/reigndeity/Payat-sa-Taas/assets/158044567/31a66064-83fa-4b53-a3c3-e0f4d4da814a)
+
+
+
 
 # Download Link
 - Windows: [**Windows - Payat sa Taas**](https://drive.google.com/file/d/18aXL1cFvx1mU46ZjurF8tgxmoeGCjJgr/view?usp=sharing)
